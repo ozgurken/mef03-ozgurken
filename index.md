@@ -7,3 +7,6 @@ Please see my Homework 1 from the link below:
 
 [Homework1](Ozgur-Kenanoglu-Homework.html)
 
+Please see my Homework 2 (BKM Analysis) from the link below: 
+
+[Homework2](BKM-Assisgment---Hasan-Ozgur-Kenanoglu.html)
