@@ -10,3 +10,7 @@ Please see my Homework 1 from the link below:
 Please see my Homework 2 (BKM Analysis) from the link below: 
 
 [Homework2](BKM-Assisgment---Hasan-Ozgur-Kenanoglu.html)
+
+Please see my Homework 3 (Tennis Data Set Analysis) from the link below: 
+
+[Homework3](Tennis-Data-Set-Homework-Hasan Ozgur Kenanoglu.html)
