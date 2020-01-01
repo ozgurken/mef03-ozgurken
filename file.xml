@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<recipe>
+
+<recipecat category="turkish">
+  <title lang="en">Sarma</title>
+  <chef>Refika Y</chef>
+  <ingredient>pirinc</ingredient>
+  <ingredient>yaprak</ingredient>
+</recipecat>
+
+<recipecat category="turkish">
+  <title lang="en">Manti</title>
+  <chef>Alp O</chef>
+  <ingredient>yogurt</ingredient>
+  <ingredient>hamur</ingredient>
+  <ingredient>kiyma</ingredient>
+
+</recipecat>
+
+
+<recipecat category="italian">
+  <title lang="en">pizza</title>
+  <chef>Antonio K</chef>
+  <ingredient>hamur</ingredient>
+  <ingredient>mozerella</ingredient>
+    <ingredient>basil</ingredient>
+
+</recipecat>
+
+
+<recipecat category="american">
+  <title lang="en">Hamburger</title>
+  <chef>Josh T</chef>
+  <ingredient>meat</ingredient>
+  <ingredient>cheddar</ingredient>
+</recipecat>
+
+<recipecat category="turkish">
+  <title lang="en">Pilav</title>
+  <chef>Cengiz K</chef>
+  <ingredient>pirinc</ingredient>
+  <ingredient>bulyon</ingredient>
+</recipecat>
+
+<recipecat category="arabic">
+  <title lang="en">Hummus</title>
+  <chef>Tarek L</chef>
+  <ingredient>nohut</ingredient>
+  <ingredient>yag</ingredient>
+</recipecat>
+
+
+</recipe>
